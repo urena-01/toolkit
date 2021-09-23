@@ -3,4 +3,10 @@
   hosts: juniper
   tasks:
     - name: create a login banner
-      
+      junos_banner:
+        banner: login
+        text: |
+          this is matts login banner
+          that contains a multiline
+          string for testing
+        state: present      
