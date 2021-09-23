@@ -1,0 +1,6 @@
+--- 
+- name: juniper banner demo
+  hosts: juniper
+  tasks:
+    - name: create a login banner
+      
