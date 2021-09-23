@@ -8,5 +8,5 @@
         text: |
           this is matts login banner
           that contains a multiline
-          string to show Loyd!!
+          string to show that matt is the best
         state: present      
