@@ -8,5 +8,5 @@
         text: |
           this is matts login banner
           that contains a multiline
-          string for testing
+          string to show Loyd!!
         state: present      
